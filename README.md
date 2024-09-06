@@ -5,5 +5,6 @@ A ideia de criar um currículo interativo me pareceu fazer muito sentido, já qu
 
 https://github.com/GilbertoRadecki/Projetos/blob/main/Chat_Bot.ipynb
 
+<img src="/assets/img/gilbot.gif">
 
 ______________________________________________________________________
